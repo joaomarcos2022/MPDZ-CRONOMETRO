@@ -23,7 +23,7 @@ img {
   width: 340px;
   background: white;
   border-radius: 6px;
-  text-align: center;
+  padding-left: 10px;
 }
 
 .numeros {
